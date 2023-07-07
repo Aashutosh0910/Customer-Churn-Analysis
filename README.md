@@ -1,9 +1,9 @@
 # Project
 
-Title: Bank Customer Churn Analysis Project
+Title: Customer Churn Analysis Project
 
 Description:
-The Bank Customer Churn Analysis project is a study conducted by a me to understand and predict customer attrition within a bank. The project involves the following steps:
+The Customer Churn Analysis project is a study conducted by a me to understand and predict customer attrition within a bank. The project involves the following steps:
 
 Data Collection: Gathering relevant customer data, such as demographics, account information, transaction history, and customer interactions.
 
